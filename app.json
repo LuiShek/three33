@@ -21,6 +21,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "80975db5-7277-4419-95cd-a12a6341b5dc"
+      }
+    },
+    "owner": "luitelstar"
   }
 }

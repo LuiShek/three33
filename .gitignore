@@ -39,3 +39,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# local adb toolchain (not part of the app)
+_pt/
+
